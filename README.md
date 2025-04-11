@@ -1,7 +1,7 @@
-<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.png" width="800" >
-<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.png" width="800" >
-<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.png" width="800" >
-<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.png" width="800" >
+<img src= "https://github.com/TS18288/-3/blob/main/1.png" width="800" >
+<img src= "https://github.com/TS18288/-3/blob/main/2.png" width="800" >
+<img src= "https://github.com/TS18288/-3/blob/main/3.png" width="800" >
+<img src= "https://github.com/TS18288/-3/blob/main/4.png" width="800" >
 # 代码核心功能说明
 
 ## 算法基础：多项式朴素贝叶斯分类器
